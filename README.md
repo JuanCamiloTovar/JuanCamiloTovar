@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Juan Camilo
 
-<!--
-**JuanCamiloTovar/JuanCamiloTovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer focused on building web applications and APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔧 Backend development with **Python & Flask**
+* 🌐 Frontend development with **HTML, CSS, JavaScript**
+* 🗄️ Database management using **MySQL**
+* ⚡ Experience building and consuming **REST APIs**
+* 🎨 UI development with **Bootstrap**
+* ⚛️ Currently learning **React**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+Python • Flask • PHP
+
+**Frontend**
+
+HTML • CSS • JavaScript • Bootstrap • React (learning)
+
+**Database**
+
+MySQL
+
+**Tools**
+
+Git • GitHub • VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO\&layout=compact)
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/TUUSUARIO
+
