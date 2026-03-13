@@ -29,7 +29,9 @@
 
 Web system for managing pork production including diets, pig stages, weight tracking, and report generation in PDF.
 
-Tech: Python • Flask • MySQL • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql" />
+</p>
 
 ---
 
@@ -38,6 +40,10 @@ Tech: Python • Flask • MySQL • HTML • CSS
 REST API for managing pizza orders with users, orders, and products. Designed using service and repository patterns.
 
 Tech: Python • Flask • MySQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql" />
+</p>
 
 ---
 
