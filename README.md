@@ -17,33 +17,43 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**
-
-Python • Flask • PHP
-
-**Frontend**
-
-HTML • CSS • JavaScript • Bootstrap • React (learning)
-
-**Database**
-
-MySQL
-
-**Tools**
-
-Git • GitHub • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,bootstrap,react,mysql,git,github,vscode" />
+</p>
 
 ---
 
+## 📌 Featured Projects
+
+### 🐷 EduPork
+
+Web system for managing pork production including diets, pig stages, weight tracking, and report generation in PDF.
+
+Tech: Python • Flask • MySQL • HTML • CSS
+
+---
+
+### 🍕 Pizza API
+
+REST API for managing pizza orders with users, orders, and products. Designed using service and repository patterns.
+
+Tech: Python • Flask • MySQL
+
+---
+
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanCamiloTovar\&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloTovar\&layout=compact)
 
 ---
 
 ## 📫 Contact
+
+GitHub: https://github.com/JuanCamiloTovar
+
 
 * GitHub: https://github.com/JuanCamiloTovar
 
