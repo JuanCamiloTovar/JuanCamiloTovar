@@ -12,17 +12,17 @@ Copiar
  
 ```python
 class JuanCamilo:
-    ubicacion   = "Santa Marta, Colombia 🌴"
+    ubicacion   = "Valledupar, Colombia 🌴"
     rol         = "Full Stack Developer"
     stack       = ["Python", "Flask", "MySQL", "HTML/CSS", "JavaScript"]
     aprendiendo = ["React", "Clean Architecture"]
-    buscando    = "primer rol como dev junior"
-    frase       = "Construyo desde el Caribe — backend sólido, frontend que funciona."
+    buscando    = "Primer rol como dev junior"
+    frase       = "Bogotano por nacimiento, En Valledupar por elección pero Full-Stack por pasión"
 ```
  
 ---
  
-## 🧠 Sobre mí
+## Sobre mí
  
 Soy desarrollador full stack enfocado en construir **APIs y sistemas web que resuelven problemas reales**.
 Me formé construyendo proyectos propios, desde sistemas de producción porcina hasta plataformas de delivery.
@@ -31,7 +31,7 @@ Actualmente obsesionado con React y con entender bien la arquitectura de softwar
  
 ---
  
-## 🛠️ Stack
+## Stack
  
 **Domino:**
  
@@ -50,9 +50,9 @@ Actualmente obsesionado con React y con entender bien la arquitectura de softwar
  
 ---
  
-## 📌 Proyectos destacados
+## Proyectos destacados
  
-### 🐷 EduPork
+### EduPork
 > *Los productores porcinos en Colombia no tenían herramienta digital para llevar sus registros.*
  
 Construí un sistema web completo que cubre etapas del ciclo porcino, gestión de dietas, seguimiento de pesos y generación de reportes en PDF. El proyecto nació de una necesidad real en el sector agropecuario.
@@ -62,7 +62,7 @@ Construí un sistema web completo que cubre etapas del ciclo porcino, gestión d
  
 ---
  
-### 🍕 Pizza API
+### Pizza API
 > *Mi primer proyecto donde separé bien las capas — aprendí más aquí que en cualquier curso.*
  
 API REST para gestión de pedidos de pizza con usuarios, productos y órdenes. Implementada con arquitectura service/repository para mantener el código limpio y escalable.
@@ -72,28 +72,18 @@ API REST para gestión de pedidos de pizza con usuarios, productos y órdenes. I
  
 ---
  
-### 🚚 Delivery App Concept
-> *¿Y si los vendedores callejeros pudieran conectarse con domiciliarios independientes?*
- 
-Diseño de plataforma que conecta vendedores ambulantes con repartidores independientes, inspirada en el modelo InDriver. Sistema de roles, geolocalización y asignación de pedidos.
- 
-`System Design` `REST API` `Arquitectura de Backend`
-&nbsp; [→ Ver repositorio](https://github.com/JuanCamiloTovar/delivery-app)
- 
----
- 
-## ⚡ Ahora mismo
+## Ahora mismo
  
 | | |
 |---|---|
-| 📖 **Aprendiendo** | React — hooks, componentes, estado global |
-| 🔨 **Construyendo** | proyectos para fortalecer el portafolio |
-| 📚 **Leyendo** | clean architecture aplicada a Python/Flask |
-| 🎯 **Buscando** | primer rol como developer junior |
+| **Aprendiendo** | React — hooks, componentes, estado global |
+| **Construyendo** | proyectos para fortalecer el portafolio |
+| **Leyendo** | clean architecture aplicada a Python/Flask |
+| **Buscando** | primer rol como developer junior |
  
 ---
  
-## 📊 GitHub Stats
+## GitHub Stats
  
 <div align="center">
  
@@ -105,7 +95,7 @@ Diseño de plataforma que conecta vendedores ambulantes con repartidores indepen
  
 ---
  
-## 📫 Contacto
+## Contacto
  
 ¿Tienes un proyecto o quieres colaborar? Escríbeme.
  
