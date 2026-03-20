@@ -1,6 +1,3 @@
-Readme · MD
-Copiar
-
 <div align="center">
  
 <!-- Cabecera animada -->
