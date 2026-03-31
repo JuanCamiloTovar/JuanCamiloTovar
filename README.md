@@ -1,7 +1,7 @@
 <div align="center">
  
 <!-- Cabecera animada -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=Juan%20Camilo%20Tovar&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Valledupar%2C%20Colombia%20%F0%9F%8C%B4&descAlignY=58&descColor=8b949e&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=Juan%20Camilo%20Tovar&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Valledupar%2C%20Colombia%20%soytovarjuan29@gmail.com%F0%9F%8C%B4&descAlignY=58&descColor=8b949e&descSize=16" />
  
 </div>
  
